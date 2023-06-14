@@ -18,7 +18,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         {children}
-        <script type='text/javascript' src="/js/f.js"></script>
       </body>
     </html>
   )
